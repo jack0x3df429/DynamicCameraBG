@@ -6,7 +6,7 @@
 
 更改main.py改變背景影片
 
-![alt text](https://github.com/jack0x3df429/DynamicCameraBG/blob/b9b99465d4e30c67fd7d10a8198d7780eb9a106f/preview.gif?raw=true)
+![alt text](https://github.com/jack0x3df429/DynamicCameraBG/blob/26fa95e3809ae198c0ae70e529bc4bec131497e2/preview.gif?raw=true)
 
 需要安裝OBS虛擬相機 https://obsproject.com/
 
