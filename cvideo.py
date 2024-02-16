@@ -15,8 +15,3 @@ class   cvideo():
 
 if __name__ =="__main__":
     pass
-    '''while True:
-        c=cvideo("rick.mp4")
-
-        cv2.imshow("my webcam",         c.read())
-        cv2.waitKey()'''

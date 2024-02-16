@@ -2,9 +2,7 @@
 import pyvirtualcam
 from backgoundchanger import backgoundchanger
 ################################
-import numpy as np
-import cv2
-import time
+import cv2,sys
 ################################
 
 ################################
@@ -16,7 +14,7 @@ Output_res=(720,1280)
 ################################
 
 with pyvirtualcam.Camera(width=Output_res[1], height=Output_res[0], fps=30, fmt=fmt) as cam:
-    bgcg=backgoundchanger("bg.mp4",Output_res)
+    bgcg=backgoundchanger(sys.argv[1],Output_res)
     #capvideo=bgcg.capvideo
     bgcg.start()
     while True:
