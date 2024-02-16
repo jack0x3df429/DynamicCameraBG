@@ -5,6 +5,7 @@
 使用自己的影片吧
 
 使用方法:
+
 `python3 main.py bg.mp4`
 
 ![alt text](https://github.com/jack0x3df429/DynamicCameraBG/blob/26fa95e3809ae198c0ae70e529bc4bec131497e2/preview.gif?raw=true)
