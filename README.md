@@ -4,6 +4,10 @@
 
 使用自己的影片吧
 
+使用mediapipe分割人像、opencv+numpy進行影像處理、
+
+最後輸出至OBS虛擬相機內
+
 使用方法:
 
 `python3 main.py <your video>`
